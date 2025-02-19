@@ -13,7 +13,7 @@ A Python-based YouTube video and thumbnail downloader using yt-dlp, providing a 
 
 ## Installation
 
-This project uses [UV](https://github.com/astral/uv) as the package manager for superior performance and reliability.
+This project uses [UV](https://docs.astral.sh/uv/) as the package manager for superior performance and reliability.
 
 ### 1. Install UV (if not already installed)
 
