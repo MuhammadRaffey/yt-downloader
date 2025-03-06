@@ -41,22 +41,6 @@ source .venv/bin/activate
 uv sync
 ```
 
-## Development Setup
-
-```bash
-# Add new dependencies
-uv add yt-dlp
-
-# View dependency tree
-uv tree
-
-# Update dependencies
-uv sync
-
-# Create/update lockfile
-uv lock
-```
-
 ## Usage
 
 ### Command Line Interface
